@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-10-11T11:54:16.212Z</updated>
+    <updated>2019-10-11T12:04:40.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe//atom.xml"/>
-    <subtitle>布克雜貨鋪</subtitle>
+    <subtitle>null</subtitle>
     <logo>https://blog.buke.moe//images/avatar.png</logo>
     <icon>https://blog.buke.moe//favicon.ico</icon>
     <rights>All rights reserved 2019, 布克雜貨鋪</rights>
