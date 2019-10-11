@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-10-11T12:06:13.988Z</updated>
+    <updated>2019-10-11T12:39:58.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://blog.buke.moe//images/avatar.png</logo>
     <icon>https://blog.buke.moe//favicon.ico</icon>
     <rights>All rights reserved 2019, 布克雜貨鋪</rights>
+    <entry>
+        <title type="html"><![CDATA[拒绝流氓软件，打造干净电脑环境]]></title>
+        <id>https://blog.buke.moe//post/1</id>
+        <link href="https://blog.buke.moe//post/1">
+        </link>
+        <updated>2019-10-11T12:06:21.000Z</updated>
+        <content type="html"><![CDATA[<p>coming soon</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从零开始的攒机避坑指南💻（v0.3）]]></title>
         <id>https://blog.buke.moe//post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03</id>
