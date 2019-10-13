@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-10-11T12:39:58.511Z</updated>
+    <updated>2019-10-13T03:05:11.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe//atom.xml"/>
@@ -16,7 +16,51 @@
         <link href="https://blog.buke.moe//post/1">
         </link>
         <updated>2019-10-11T12:06:21.000Z</updated>
-        <content type="html"><![CDATA[<p>coming soon</p>
+        <content type="html"><![CDATA[<p>推荐等级 ★★★★★</p>
+<p>火绒安全</p>
+<p>Bandizip</p>
+<p>Office365 💰</p>
+<p>Chrome浏览器：同步服务和插件安装在大陆地区无法使用</p>
+<p>FireFox浏览器：注意国内特供版</p>
+<p>Geek Uninstaller</p>
+<p>PotPlayer</p>
+<p>LastPass</p>
+<p>Honeyview</p>
+<p>Everything</p>
+<p>FreeFileSync</p>
+<p>Thonny</p>
+<p>Dev-C++</p>
+<p>Process Lasso💰</p>
+<p>Dropbox</p>
+<p>OneDrive</p>
+<p>IDM(Internet Download Manager)💰</p>
+<p>Notepad++</p>
+<p>iMazing</p>
+<p>Sandboxie</p>
+<p>VirtualBox</p>
+<p>Cryptomator</p>
+<p>VeraCrypt</p>
+<p>Encrypto</p>
+<p>HashCheck Shell Extension</p>
+<p>Foobar2000</p>
+<p>Typora</p>
+<p>Listary</p>
+<p>TreeSize</p>
+<p>SumatraPDF</p>
+<p>ShareX</p>
+<p>Snipaste</p>
+<p>Arctime</p>
+<p>Rufus</p>
+<p>TrafficMonitor</p>
+<h2 id="黑心软件">黑心软件</h2>
+<p><strong>温度</strong>：请找朋友、电脑师傅给电脑清灰，更换硅脂。其实并不困难，在网上看5分钟视频就能掌握。</p>
+<p><strong>内存占用过高</strong>：win10作为一个现代操作系统已经有用一套十分成熟的内存管理机制，不用刻意追求内存占用越低越好。“一键内存清理”等国产软件功能并无必要。</p>
+<p><strong>垃圾清理</strong>：这个问题较为复杂。我个人观点是没有必要去可以清理，使用Geek Uninstaller可以在卸载时将软件残余一并清理干净。系统更新残余文件可以通过右键C盘-磁盘清理（记得点击清理系统文件）进行清除。</p>
+<p><strong>电脑卡顿</strong>：请检查电脑散热是否有问题，CPU温度是否过高。请不要安装过多国产流氓软件，导致它们在后台养蛊征用系统资源。</p>
+<p>360系列任何产品</p>
+<p>国产浏览器（360、猎豹、百度等）</p>
+<p>鲁大师</p>
+<p>百度系任何产品</p>
 ]]></content>
     </entry>
     <entry>
