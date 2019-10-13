@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-10-13T03:05:11.863Z</updated>
+    <updated>2019-10-13T03:07:50.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe//atom.xml"/>
@@ -69,8 +69,8 @@
         <link href="https://blog.buke.moe//post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03">
         </link>
         <updated>2019-10-11T03:57:07.000Z</updated>
-        <content type="html"><![CDATA[<p>博客从搬迁到Gridea，因Markdown标准和原编辑器不同，部分排版与显示有误。<br>
-修正前可以访问 <strong><a href="https://pc.buke.moe">https://pc.buke.moe</a></strong></p>
+        <content type="html"><![CDATA[<p>博客从Hugo搬迁到Gridea，因Markdown标准和原编辑器不同，部分排版与显示有误。<br>
+修正前可以访问旧版页面 <strong><a href="https://pc.buke.moe">https://pc.buke.moe</a></strong></p>
 <h2 id="0-前言">0. 前言</h2>
 <ul>
 <li><strong>本人不提供攒机咨询，请勿问我这个配件怎么样，XX预算能装什么电脑。硬件品牌繁多且发展日新月异，我只在自己需要攒机的时候才会关注自己需要的小部分硬件。要我为其他人量身写配置单我说不出个所以然。</strong></li>
