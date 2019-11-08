@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-10-13T16:28:24.490Z</updated>
+    <updated>2019-11-08T03:39:48.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe//atom.xml"/>
@@ -111,7 +111,7 @@
 </li>
 </ul>
 <h2 id="3-cpu">3. CPU</h2>
-<p><strong>CPU性能天梯榜</strong>：https://topic.expreview.com/CPU/</p>
+<p><strong>CPU性能天梯榜</strong>：<a href="https://topic.expreview.com/CPU/">https://topic.expreview.com/CPU/</a></p>
 <p>（写于2019年2月）</p>
 <p>从2017年到现在，AMD推出的锐龙<strong>Ryzen</strong>系列CPU经过了广大消费者的考验，打了一场漂亮的翻身仗，结束了Intel多年在民用CPU领域一家独大挤牙膏的状况。且从2018年上半年开始Intel调高了CPU定价，所有Intel CPU价格疯涨，8500等中低端CPU对比去年涨价将近500RMB左右。所幸现在我们有AMD的锐龙系列可以选择，Ryzen系列CPU价格实惠。虽然AMD CPU的单核性能普遍略弱于Intel，但其核心数多且支持多线程技术，例如Ryzen 5 2600就有6核12线程可以使用。反观Intel的高主频多核心超线程只对高端产品开放。</p>
 <p>综上所述，如果没有特殊需求，现在这段时期推荐使用物美价廉的AMD CPU。不急着装机也可以等年中AMD的Zen2架构推出。</p>
@@ -324,7 +324,7 @@
 <li>
 <p><strong>输出功率</strong></p>
 <p>顾名思义，电源能给主机全部元件提供多大的输出功率。没有经验的朋友可以搜索“<strong>电脑功耗计算器</strong>”辅助自己估算自己需要多少瓦数的电源。得到计算结果后请加上几十上百瓦的功耗裕度以应对各种情况。以下是我用过的功耗估算器（英文页面）：</p>
-<p>https://outervision.com/power-supply-calculator</p>
+<p><a href="https://outervision.com/power-supply-calculator">https://outervision.com/power-supply-calculator</a></p>
 </li>
 <li>
 <p><strong>电源转化率</strong></p>
