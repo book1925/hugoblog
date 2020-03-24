@@ -1,94 +1,97 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>个人向年度最佳动画名单 | 布克雜貨鋪</title>
-<link rel="shortcut icon" href="https://blog.buke.moe//favicon.ico?v=1585041646226">
+    
+<meta charset="utf-8" >
+
+<title>个人向年度最佳动画备忘 | 布克雜貨鋪</title>
+<meta name="description" content="null">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://blog.buke.moe//favicon.ico?v=1585061999786">
 <link rel="stylesheet" href="https://blog.buke.moe//styles/main.css">
 
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://blog.buke.moe/">
-  <img class="avatar" src="https://blog.buke.moe//images/avatar.png?v=1585041646226" alt="">
-  </a>
-  <h1 class="site-title">
-    布克雜貨鋪
-  </h1>
-  <p class="site-description">
-    null
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
-      
-        <a href="/post/pub_key" class="menu">
-          我的PGP公钥
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://blog.buke.moe/">
+        <img class="avatar" src="https://blog.buke.moe//images/avatar.png?v=1585061999786" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://blog.buke.moe/">
+        <h1 class="site-title">布克雜貨鋪</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
 </div>
 
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+        
+          <a href="/post/pub_key" class="menu purple-link">
+            我的PGP公钥
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
         <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              个人向年度最佳动画名单
-            </h2>
-            <div class="post-info">
-              <time class="post-time">
-                · 2019-12-25 ·
-              </time>
-              
-            </div>
+          
+          <h2 class="post-title">个人向年度最佳动画备忘</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-12-25</span>
             
-            <div class="post-content">
-              <h2 id="动画">动画</h2>
+          </div>
+          <div class="post-content">
+            <h2 id="动画">动画</h2>
 <p><em>*不完全，随本人记忆更新</em></p>
 <table>
 <thead>
@@ -189,34 +192,72 @@
 </tbody>
 </table>
 <h2 id="漫画">漫画</h2>
-<p>姊嫁物语</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">年份</th>
+<th style="text-align:left">名称</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2008</td>
+<td style="text-align:left">姊嫁物语</td>
+</tr>
+</tbody>
+</table>
 
-            </div>
-          </article>
+          </div>
         </div>
-    
+
         
           <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://blog.buke.moe/post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03/">
+            <a class="purple-link" href="https://blog.buke.moe/post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03/">
               <h3 class="post-title">
-                从零开始的攒机避坑指南💻（v0.3）
+                下一篇：从零开始的攒机避坑指南💻（v0.3）
               </h3>
             </a>
-          </div>  
-        
+          </div>
+          
+      </div>
 
-        
+      
+
+      <div class="site-footer">
+  <div class="slogan">null</div>
+  <div class="social-container">
     
-        <div class="site-footer">
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
 </div>
 
-<script>
-  hljs.initHighlightingOnLoad()
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
 </script>
 
-      </div>
-    </div>
+
+
+
   </body>
 </html>
