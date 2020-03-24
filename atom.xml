@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2019-12-25T03:59:52.626Z</updated>
+    <updated>2020-03-24T08:55:54.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
-    <link rel="self" href="https://blog.buke.moe//atom.xml"/>
+    <link rel="self" href="https://blog.buke.moe/atom.xml"/>
     <subtitle>null</subtitle>
-    <logo>https://blog.buke.moe//images/avatar.png</logo>
-    <icon>https://blog.buke.moe//favicon.ico</icon>
-    <rights>All rights reserved 2019, 布克雜貨鋪</rights>
+    <logo>https://blog.buke.moe/images/avatar.png</logo>
+    <icon>https://blog.buke.moe/favicon.ico</icon>
+    <rights>All rights reserved 2020, 布克雜貨鋪</rights>
     <entry>
         <title type="html"><![CDATA[个人向年度最佳动画名单]]></title>
-        <id>https://blog.buke.moe//post/ge-ren-xiang-nian-du-zui-jia-dong-hua-ming-dan</id>
-        <link href="https://blog.buke.moe//post/ge-ren-xiang-nian-du-zui-jia-dong-hua-ming-dan">
+        <id>https://blog.buke.moe/post/ge-ren-xiang-nian-du-zui-jia-dong-hua-ming-dan/</id>
+        <link href="https://blog.buke.moe/post/ge-ren-xiang-nian-du-zui-jia-dong-hua-ming-dan/">
         </link>
         <updated>2019-12-25T03:41:41.000Z</updated>
         <content type="html"><![CDATA[<h2 id="动画">动画</h2>
@@ -122,8 +122,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[从零开始的攒机避坑指南💻（v0.3）]]></title>
-        <id>https://blog.buke.moe//post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03</id>
-        <link href="https://blog.buke.moe//post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03">
+        <id>https://blog.buke.moe/post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03/</id>
+        <link href="https://blog.buke.moe/post/cong-ling-kai-shi-de-zan-ji-bi-keng-zhi-nan-v03/">
         </link>
         <updated>2019-10-11T03:57:07.000Z</updated>
         <content type="html"><![CDATA[<h2 id="0-前言">0. 前言</h2>
@@ -156,7 +156,7 @@
 <p>选购CPU和主板时要注意<strong>针脚数量是否对应</strong>，现在常见的有1151针脚和2066针脚。</p>
 </li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://blog.buke.moe//post-images/1570980222722.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://blog.buke.moe//post-images/1570980222722.png" alt="" loading="lazy"></figure>
 </li>
 <li>
 <p><strong>AMD阵容：</strong></p>
@@ -164,7 +164,7 @@
 <li>AMD产品定位较为易懂。不用管芯片组，只要接口类型相同就能通用（例如AM4接口都能通用）。</li>
 <li>A为入门级，不支持超频，B、X都可以超频。但是锐龙系列所有CPU都支持超频，所以推荐至少买B系列主板。（ AMD Yes！）</li>
 </ul>
-<figure data-type="image" tabindex="2"><img src="https://blog.buke.moe//post-images/1570980198507.png" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://blog.buke.moe//post-images/1570980198507.png" alt="" loading="lazy"></figure>
 </li>
 </ul>
 </li>
@@ -217,7 +217,7 @@
 <p>购买前请留意买家留言，看有没有什么其他偷工减料的地方。比如有些机箱过于轻薄，在风扇和硬盘转动时会导致机箱铁皮共振。</p>
 </li>
 </ul>
-<figure data-type="image" tabindex="3"><img src="https://blog.buke.moe//post-images/1570980286383.png" alt=""></figure>
+<figure data-type="image" tabindex="3"><img src="https://blog.buke.moe//post-images/1570980286383.png" alt="" loading="lazy"></figure>
 </li>
 </ul>
 <h2 id="3-cpu">3. CPU</h2>
@@ -272,7 +272,7 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="4"><img src="https://blog.buke.moe//post-images/1570980308194.png" alt=""></figure>
+<figure data-type="image" tabindex="4"><img src="https://blog.buke.moe//post-images/1570980308194.png" alt="" loading="lazy"></figure>
 <h2 id="5-内存">5. 内存</h2>
 <p>常见内存厂家有三星、海力士、镁光、SpecTek等。其中SpecTek俗称大S，是镁光旗下的子公司。专门用于处理母公司镁光检查不合格的内存颗粒，对边角料和淘汰品进行重新检测再利用。虽然其生产的内存颗粒也是合格品，但是质量和稳定性比前面几个要差上一些，超频能力也很弱。图便宜且不超频可购买大S颗粒的内存。如果预算很足可以购买三星B-Die颗粒的内存，B-Die算是很好的内存颗粒，能在低电压低时序下超到很高的频率。要性价比可选择海力士的颗粒，虽然频率没有B-Die那么鸡血，但是已经足够日常打游戏使用。</p>
 <p>什么？你问我怎么知道哪条内存用什么颗粒？吃柠檬你不会百度吗？</p>
@@ -297,11 +297,11 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="5"><img src="https://blog.buke.moe//post-images/1570980353366.jpg" alt=""></figure>
+<figure data-type="image" tabindex="5"><img src="https://blog.buke.moe//post-images/1570980353366.jpg" alt="" loading="lazy"></figure>
 <h2 id="6-ssd">6. SSD</h2>
 <p>很多人容易将物理接口和传输协议搞混。SSD常用协议可以分为AHCI和NVMe。前者常用我们熟悉的SATA接口，而后者常用PCIe和M.2接口。其中M.2作为物理接口可以同时支持AHCI和NVMe两种协议。因为SATA3只有最大600MB/s的理论速度，因此走PCIe通道的NVMe比前者快很多。此外还有PCIe接口的SSD，这个不在讨论之列。</p>
 <p>当然也有M.2接口使用AHCI协议的SSD，这种固态速度和SATA3 SSD一样，还会浪费珍贵的M.2接口，<strong>不推荐购买</strong>。感受一下三丧NVMe 970 Pro速度的暴力吧。</p>
-<figure data-type="image" tabindex="6"><img src="https://blog.buke.moe//post-images/1570980367430.png" alt=""></figure>
+<figure data-type="image" tabindex="6"><img src="https://blog.buke.moe//post-images/1570980367430.png" alt="" loading="lazy"></figure>
 <p>接下来介绍SSD选购中的坑：</p>
 <p>SSD闪存颗粒的生产厂家基本还是产内存颗粒那几家，以Intel、三星、镁光等厂商为主。市面上众多的SSD品牌基本都是购买这几家生产的闪存颗粒，根据产品容量不同放上相应数量芯片，加上主控封装为最后的成品投入市场进行销售。那么问题就来了，闪存颗粒厂家生产众多颗粒供给全球消费市场，那自然有巨量的残次颗粒产生。（是不是很眼熟？没错就和内存一样。）</p>
 <p>一般将闪存颗粒分为<strong>原厂、白片、黑片</strong>三类。原厂颗粒就是通过厂商各项检测，符合指标最后出厂的颗粒；白片就是存在瑕疵没有通过检测的颗粒，回收进行抢救（比如进行阉割等）再降价出给其他厂家进行组装的颗粒，虽然不如原厂颗粒，但姑且也算是合格产品；最不可信的就是黑片，黑片是颗粒制造商检测为废品的颗粒，被当作垃圾处理廉价地卖给一些厂家。（为什么不丢？丢弃还要掏钱处理废品。现在有人帮你处理垃圾还贴你钱，你选哪个？）</p>
@@ -330,7 +330,7 @@
 <ul>
 <li>
 <p><strong>选购指南</strong>：<br>
-<img src="https://blog.buke.moe//post-images/1570980389248.png" alt=""></p>
+<img src="https://blog.buke.moe//post-images/1570980389248.png" alt="" loading="lazy"></p>
 <ul>
 <li>
 <p>CHH有大佬整理了今年3.5寸机械硬盘的各项参数并做成了excel表格，我在此基础上进行了进一步筛选，挑出了现在1-4TB容量的非SMR硬盘。只要按照表格上的型号在各大电商上搜索即可。</p>
@@ -364,7 +364,7 @@
 <ul>
 <li>关于各厂商对显卡定位和用料的问题，请看下图自行斟酌：</li>
 </ul>
-<figure data-type="image" tabindex="7"><img src="https://blog.buke.moe//post-images/1570980416414.png" alt=""></figure>
+<figure data-type="image" tabindex="7"><img src="https://blog.buke.moe//post-images/1570980416414.png" alt="" loading="lazy"></figure>
 <ul>
 <li>
 <p>关于AMD显卡的型号</p>
@@ -420,7 +420,7 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="8"><img src="https://blog.buke.moe//post-images/1570980437538.png" alt=""></figure>
+<figure data-type="image" tabindex="8"><img src="https://blog.buke.moe//post-images/1570980437538.png" alt="" loading="lazy"></figure>
 <h2 id="9-电源">9. ⚡电源⚡</h2>
 <p><strong>不要在电源上省预算！！！</strong></p>
 <p><strong>不要在电源上省预算！！！</strong></p>
@@ -500,7 +500,7 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="9"><img src="https://blog.buke.moe//post-images/1570980463767.jpg" alt=""></figure>
+<figure data-type="image" tabindex="9"><img src="https://blog.buke.moe//post-images/1570980463767.jpg" alt="" loading="lazy"></figure>
 <h2 id="10-总结">10. 总结</h2>
 <ul>
 <li>
@@ -508,7 +508,7 @@
 </li>
 <li>
 <p>其他脆弱的配件推荐在<strong>京东自营</strong>购买。</p>
-<figure data-type="image" tabindex="10"><img src="https://blog.buke.moe//post-images/1570980475125.png" alt=""></figure>
+<figure data-type="image" tabindex="10"><img src="https://blog.buke.moe//post-images/1570980475125.png" alt="" loading="lazy"></figure>
 <p>所谓京东自营就是像左边一样有红框标注 <strong>自营</strong> 的商品。这类商品是由京东采购、贩卖，在售后保障期内由京东负责售后。一般晚上下单可以第二天中午到货，如果商品出问题的话京东客服也很好说话，比如电源质量有问题联系客服后下午京东小哥直接拿个新的来给你替换。售后保障期结束进入质保期之后可能继续由京东负责，也可能是供应商直接负责质保。总的来说体验比X宝好很多，我已经厌烦了和X宝店铺客服撕逼，以及寄快递回售后中心的龟速。</p>
 <p>右边哪种没有标注自营的店家就和X宝的网点一种性质，店家信誉如何就要自己斟酌了。</p>
 <p>推荐<strong>显卡、主板、电源、SSD、HDD</strong>在京东购买，这些东西都容易坏，而且一旦坏了电脑就没得用，也没办法检查是否有其他硬件也损坏了。比如最近的N卡花屏、主板被烧、电源爆炸等等情况，都挺要命的。</p>
