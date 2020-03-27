@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2020-03-25T11:51:38.725Z</updated>
+    <updated>2020-03-27T06:24:28.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe/atom.xml"/>
@@ -528,9 +528,13 @@
 </ul>
 <figure data-type="image" tabindex="5"><img src="https://blog.buke.moe//post-images/1570980353366.jpg" alt="" loading="lazy"></figure>
 <h2 id="6-ssd">6. SSD</h2>
-<p>很多人容易将物理接口和传输协议搞混。SSD常用协议可以分为AHCI和NVMe。前者常用我们熟悉的SATA接口，而后者常用PCIe和M.2接口。其中M.2作为物理接口可以同时支持AHCI和NVMe两种协议。因为SATA3只有最大600MB/s的理论速度，因此走PCIe通道的NVMe比前者快很多。此外还有PCIe接口的SSD，这个不在讨论之列。</p>
-<p>当然也有M.2接口使用AHCI协议的SSD，这种固态速度和SATA3 SSD一样，还会浪费珍贵的M.2接口，<strong>不推荐购买</strong>。感受一下三丧NVMe 970 Pro速度的暴力吧。</p>
-<figure data-type="image" tabindex="6"><img src="https://blog.buke.moe//post-images/1570980367430.png" alt="" loading="lazy"></figure>
+<p><img src="https://blog.buke.moe//post-images/1585288557749.jpg" alt="" loading="lazy"><br>
+很多人容易将物理接口和传输协议搞混。上图很好诠释了物理接口、传输协议、上层之间的关系。<br>
+对于常见的SSD而言，接口主要有两种：SATA与M.2。SATA接口走SATA协议，SATA3的实际传输速率约为600MB/s；M.2接口同时支持SATA和PCIe两种协议，前者速度限制同样为600MB/s，后者根据PCIe版本和通道数的不同可以支持十几倍于SATA3的传输速度。如常见的PCIe3.0×4的M.2接口带宽可达3.94 GB/s，限制逐步普及的PCIe4.0×4的M.2接口带宽可达7.88 GB/s。</p>
+<ul>
+<li>M.2接口使用SATA协议的SSD不仅速度受到限制，还会浪费珍贵的M.2接口，<strong>不推荐购买</strong>。</li>
+<li>每块主板对PCIe槽和M.2接口的定义不同，有些主板（比如微星b450迫击炮）在只支持PCIe2.0，如果购买了×2通道数的M.2 SSD，那么你最终只能得到PCIe2.0×2，即只能发挥1/4的带宽。</li>
+</ul>
 <p>接下来介绍SSD选购中的坑：</p>
 <p>SSD闪存颗粒的生产厂家基本还是产内存颗粒那几家，以Intel、三星、镁光等厂商为主。市面上众多的SSD品牌基本都是购买这几家生产的闪存颗粒，根据产品容量不同放上相应数量芯片，加上主控封装为最后的成品投入市场进行销售。那么问题就来了，闪存颗粒厂家生产众多颗粒供给全球消费市场，那自然有巨量的残次颗粒产生。（是不是很眼熟？没错就和内存一样。）</p>
 <p>一般将闪存颗粒分为<strong>原厂、白片、黑片</strong>三类。原厂颗粒就是通过厂商各项检测，符合指标最后出厂的颗粒；白片就是存在瑕疵没有通过检测的颗粒，回收进行抢救（比如进行阉割等）再降价出给其他厂家进行组装的颗粒，虽然不如原厂颗粒，但姑且也算是合格产品；最不可信的就是黑片，黑片是颗粒制造商检测为废品的颗粒，被当作垃圾处理廉价地卖给一些厂家。（为什么不丢？丢弃还要掏钱处理废品。现在有人帮你处理垃圾还贴你钱，你选哪个？）</p>
@@ -593,7 +597,7 @@
 <ul>
 <li>关于各厂商对显卡定位和用料的问题，请看下图自行斟酌：</li>
 </ul>
-<figure data-type="image" tabindex="7"><img src="https://blog.buke.moe//post-images/1570980416414.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://blog.buke.moe//post-images/1570980416414.png" alt="" loading="lazy"></figure>
 <ul>
 <li>
 <p>关于AMD显卡的型号</p>
@@ -649,7 +653,7 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="8"><img src="https://blog.buke.moe//post-images/1570980437538.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://blog.buke.moe//post-images/1570980437538.png" alt="" loading="lazy"></figure>
 <h2 id="9-电源">9. ⚡电源⚡</h2>
 <p><strong>不要在电源上省预算！！！</strong></p>
 <p><strong>不要在电源上省预算！！！</strong></p>
@@ -729,7 +733,7 @@
 </ul>
 </li>
 </ul>
-<figure data-type="image" tabindex="9"><img src="https://blog.buke.moe//post-images/1570980463767.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://blog.buke.moe//post-images/1570980463767.jpg" alt="" loading="lazy"></figure>
 <h2 id="10-总结">10. 总结</h2>
 <ul>
 <li>
@@ -737,7 +741,7 @@
 </li>
 <li>
 <p>其他脆弱的配件推荐在<strong>京东自营</strong>购买。</p>
-<figure data-type="image" tabindex="10"><img src="https://blog.buke.moe//post-images/1570980475125.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://blog.buke.moe//post-images/1570980475125.png" alt="" loading="lazy"></figure>
 <p>所谓京东自营就是像左边一样有红框标注 <strong>自营</strong> 的商品。这类商品是由京东采购、贩卖，在售后保障期内由京东负责售后。一般晚上下单可以第二天中午到货，如果商品出问题的话京东客服也很好说话，比如电源质量有问题联系客服后下午京东小哥直接拿个新的来给你替换。售后保障期结束进入质保期之后可能继续由京东负责，也可能是供应商直接负责质保。总的来说体验比X宝好很多，我已经厌烦了和X宝店铺客服撕逼，以及寄快递回售后中心的龟速。</p>
 <p>右边哪种没有标注自营的店家就和X宝的网点一种性质，店家信誉如何就要自己斟酌了。</p>
 <p>推荐<strong>显卡、主板、电源、SSD、HDD</strong>在京东购买，这些东西都容易坏，而且一旦坏了电脑就没得用，也没办法检查是否有其他硬件也损坏了。比如最近的N卡花屏、主板被烧、电源爆炸等等情况，都挺要命的。</p>
