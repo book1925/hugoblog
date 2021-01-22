@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.buke.moe/</id>
     <title>布克雜貨鋪</title>
-    <updated>2020-07-13T12:46:46.722Z</updated>
+    <updated>2021-01-22T10:51:30.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.buke.moe/"/>
     <link rel="self" href="https://blog.buke.moe/atom.xml"/>
     <subtitle>null</subtitle>
     <logo>https://blog.buke.moe/images/avatar.png</logo>
     <icon>https://blog.buke.moe/favicon.ico</icon>
-    <rights>All rights reserved 2020, 布克雜貨鋪</rights>
+    <rights>All rights reserved 2021, 布克雜貨鋪</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏如何为教育发挥作用——复旦严峰教授对话腾讯副总裁马晓轶]]></title>
+        <id>https://blog.buke.moe/post/you-xi-ru-he-wei-jiao-yu-fa-hui-zuo-yong-fu-dan-yan-feng-jiao-shou-dui-hua-teng-xun-fu-zong-cai-ma-xiao-yi/</id>
+        <link href="https://blog.buke.moe/post/you-xi-ru-he-wei-jiao-yu-fa-hui-zuo-yong-fu-dan-yan-feng-jiao-shou-dui-hua-teng-xun-fu-zong-cai-ma-xiao-yi/">
+        </link>
+        <updated>2021-01-22T10:42:56.000Z</updated>
+        <content type="html"><![CDATA[<p>嘉宾：严峰、马晓轶、马伯庸</p>
+<p><a href="https://v.qq.com/x/page/f3221gyaqws.html">腾讯马晓轶VS复旦教授严锋：游戏如何为教育发挥作用</a></p>
+<p><a href="https://v.qq.com/x/page/p322196k958.html">复旦教授严锋谈为何思想家推崇“游戏”</a></p>
+<p><a href="https://v.qq.com/x/page/m3221d8lrdw.html">腾讯游戏年度对谈—完整精华版</a><br>
+<a href="https://v.qq.com/x/page/z3221cxp2xk.html">腾讯游戏年度对谈—文化篇</a><br>
+<a href="https://v.qq.com/x/page/u32218genpr.html">腾讯游戏年度对谈—游戏产业篇</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch服务器地址]]></title>
         <id>https://blog.buke.moe/post/nintendo-switch-fu-wu-qi-di-zhi/</id>
